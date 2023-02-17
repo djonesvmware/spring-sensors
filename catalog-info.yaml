@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-sensors
+  annotations:
+    github.com/project-slug: djonesvmware/spring-sensors
+spec:
+  type: other
+  lifecycle: unknown
+  owner: djonesvmware
